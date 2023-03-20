@@ -15,6 +15,9 @@ class About extends Component{
                 <p>
                     <strong>Address:</strong>Kuber nagar ajay road,hydrabad
                 </p>
+                <p>
+                    <strong>Address:</strong>Kuber nagar ajay road,hydrabad
+                </p>
 
                 <p>
                     <strong>Email:</strong>bhagat@gmail.com
